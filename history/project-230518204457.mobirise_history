@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "beranda.html",
+    "currentPage": "prasarana.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -86,7 +86,10 @@
     "gdpr": false,
     "publishChangesOnly": true,
     "usedWebp": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "mbrsite": "mbrsite://%7B%22id%22%3A305220%2C%22domain%22%3A%22vcjfg7zlfs.mobirisesite.com%22%7D"
   },
   "pages": {
     "prasarana.html": {
